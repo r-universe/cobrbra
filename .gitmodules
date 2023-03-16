@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ICBioMark"]
+	path = ICBioMark
+	url = https://github.com/cobrbra/icbiomark
+	shallow = true
+	registered = true
