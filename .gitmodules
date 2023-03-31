@@ -8,3 +8,8 @@
 	url = https://github.com/cobrbra/icbiomark
 	shallow = true
 	registered = true
+[submodule "lenght"]
+	path = lenght
+	url = https://github.com/cobrbra/lenght
+	shallow = true
+	registered = true
